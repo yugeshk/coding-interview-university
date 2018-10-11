@@ -54,6 +54,6 @@
     - [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
     - [Go Proverbs](http://go-proverbs.github.io/)
     - [Go Proverbs - Rob Pike (video)](https://www.youtube.com/watch?v=PAAkCSZUG1c)
-- Other Language 1
-- Other Language 2
-- etc
+- Coding interview questions - 
+    [Cracking the coding interview by Gayle Laakmann Mcdowell](http://plusteach.com/digbooks/b_img/three.pdf)
+    
